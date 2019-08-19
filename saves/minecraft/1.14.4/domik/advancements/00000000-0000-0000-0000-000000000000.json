@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2019-08-18 14:21:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-06-30 11:53:29 +0200"
@@ -216,6 +222,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2019-08-18 14:21:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2019-08-08 15:59:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-05-02 14:52:30 +0200"
@@ -252,6 +270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2019-08-18 14:21:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2019-06-30 11:53:29 +0200"
@@ -267,6 +291,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-06-30 11:31:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2019-08-18 10:42:10 +0200"
     },
     "done": true
   },
@@ -583,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2019-08-18 14:21:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2019-08-01 18:19:53 +0200"
@@ -610,6 +646,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2019-08-01 18:39:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2019-08-18 14:21:26 +0200"
     },
     "done": true
   },
@@ -805,6 +847,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2019-08-18 14:21:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2019-08-18 14:21:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-08-01 18:19:53 +0200"
@@ -814,6 +868,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2019-07-01 14:20:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2019-08-18 14:21:26 +0200"
     },
     "done": true
   },
@@ -844,6 +904,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2019-07-01 14:20:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-08-18 14:21:24 +0200"
     },
     "done": true
   },
@@ -914,6 +980,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2019-08-18 14:21:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2019-08-18 14:21:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2019-07-01 17:26:50 +0200"
@@ -929,6 +1007,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2019-08-01 18:19:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2019-08-18 14:21:26 +0200"
     },
     "done": true
   },
