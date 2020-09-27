@@ -72,4 +72,10 @@
  <element id="84" elementName="tag1_kolbasa" elementFolder="tag1_kolbasa" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="85" elementName="tag2_v1.4" elementFolder="tag2_v1.4" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="86" elementName="tag3_broken" elementFolder="tag3_broken" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="87" elementName="X6_hash" elementFolder="X6_hash" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="88" elementName="tag4_v1.5" elementFolder="tag4_v1.5" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="89" elementName="C5_hash" elementFolder="C5_hash" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="90" elementName="tag0_sosiska" elementFolder="tag0_sosiska" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="91" elementName="X2_hash" elementFolder="X2_hash" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="92" elementName="C8_hash" elementFolder="C8_hash" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
